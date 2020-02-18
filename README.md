@@ -1,3 +1,5 @@
+Blog - https://scripting4ever.wordpress.com/2020/02/17/script-to-perform-vm-backup-and-power-operations-on-vms-that-are-running-on-top-of-free-licensed-standalone-esxi-hosts/
+
 This script is used to perform functionalities on the VMs that are running on top of standalone ESXI hosts
 1. Stop VM
 2. Reboot VM
